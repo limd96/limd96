@@ -2,6 +2,10 @@
 
 I'm a full-stack software engineer based in NYC, passionate about building scalable, data-intensive web applications that solve real-world problems.
 
+## 🧠 What I'm Working On
+
+🚀 Building performant React/Typescript frontends and robust Golang/GraphQL backend APIs at [Oden Technologies](https://oden.io).
+
 ## 🔧 Technologies & Tools
 
 **📝 Languages:** JavaScript (ES6+), TypeScript, Golang, Python, Java  
@@ -9,10 +13,6 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 **💾 Databases:** PostgreSQL, MongoDB, Redis  
 **☁️ Cloud & DevOps:** AWS (Lambda, ECS, S3, etc.), GCP, Docker, Terraform, GitHub Actions  
 **⚙️ Other:** Webpack, Vite, Nginx
-
-## 🧠 What I'm Working On
-
-🚀 Building performant React/Typescript frontends and robust Golang/GraphQL backend APIs at [Oden Technologies](https://oden.io).
 
 ## 🌟 Featured Projects
 
