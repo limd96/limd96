@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Damian!
+## 👋 Hey, I'm Damian!
 
 I'm a full-stack software engineer based in NYC, passionate about building scalable, data-intensive web applications that solve real-world problems.
 
@@ -12,7 +12,7 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 
 ## 🧠 What I'm Working On
 
-🚀 Building performant React/Typescript frontends and robust Golang/GraphQL backend APIs at [Oden Technologies](https://oden.io)
+🚀 Building performant React/Typescript frontends and robust Golang/GraphQL backend APIs at [Oden Technologies](https://oden.io).
 
 ## 🌟 Featured Projects
 
