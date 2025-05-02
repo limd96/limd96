@@ -16,12 +16,12 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 
 ## 🌟 Featured Projects
 
-#### [🤖 Process AI](https://oden.io/process-ai/#id-demo-block) - *Oden Technologies - Series B Manufacturing Analytics Startup*
+### [🤖 Process AI](https://oden.io/process-ai/#id-demo-block) - *Oden Technologies - Series B Manufacturing Analytics Startup*
 Process AI is a web application that ingests data continuously from plant operations, analyzing it in real-time to generate actionable recommendations.
 It updates these insights dynamically, providing operators on the factory floor with real-time guidance to optimize every run, whether for speed, cost reduction, or quality improvement.
 > Tools used: Golang, GraphQL, React, Typescript, Highcharts, GCP
 
-#### [🌱 Carbon Barometer](https://www.carbonbarometer.com/) - *Gro Intelligence - Series B Climate & AgTech Startup (Shut down in 2024)*
+### [🌱 Carbon Barometer](https://www.carbonbarometer.com/) - *Gro Intelligence - Series B Climate & AgTech Startup (Shut down in 2024)*
 A web platform to analyze corporate climate disclosures and compare emissions data across industries. Built to bring transparency and accountability to the climate tech space.
 
 > Tools used: React, TypeScript, Highcharts, Mapbox, AWS     
