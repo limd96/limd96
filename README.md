@@ -5,6 +5,8 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 ## 🧠 What I'm Working On
 
 🚀 Building performant React/Typescript frontends and robust Golang/GraphQL backend APIs at [Oden Technologies](https://oden.io).
+<br/>
+📚 Pursuing a Master of Science in Computer Science degree part-time at [Georgia Tech](https://omscs.gatech.edu/).
 
 ## 🔧 Technologies & Tools
 
