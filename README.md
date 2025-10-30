@@ -11,6 +11,7 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 ## 🔧 Technologies & Tools
 
 **📝 Languages:** TypeScript, Golang, Python
+<br />
 **🛠️ Frameworks:** React, GraphQL, Node.js, Flask  
 **💾 Databases:** PostgreSQL, MongoDB, Redis  
 **☁️ Cloud & DevOps:** AWS, GCP, Docker, Terraform, GitHub Actions  
