@@ -4,7 +4,7 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 
 ## 🧠 What I'm Working On
 
-🚀 Product engineering on the Market Data team at [Pave](https://pave.com).
+🚀 Infra and developer tooling on the Dev Platform team, and product engineering on the Market Data team at [Pave](https://pave.com).
 <br/>
 📚 Pursuing a Master of Science in Computer Science degree part-time at [Georgia Tech](https://omscs.gatech.edu/).
 
