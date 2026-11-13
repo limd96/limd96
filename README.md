@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Damian!
 
-I'm a full-stack software engineer based in NYC, passionate about building scalable, data-intensive web applications that solve real-world problems.
+I'm a full-stack software engineer based in NYC, passionate about developer experience and internal tooling. I also have extensive experience building scalable, data-intensive web applications that solve real-world problems.
 
 ## 🧠 What I'm Working On
 
-🚀 Infra and developer tooling on the Dev Platform team, and product engineering on the Market Data team at [Pave](https://pave.com).
+🚀 Infrastructure and developer tooling on the Developer Platform team, and product engineering on the Market Data team at [Pave](https://pave.com).
 <br/>
 📚 Pursuing a Master of Science in Computer Science degree part-time at [Georgia Tech](https://omscs.gatech.edu/).
 
@@ -13,9 +13,9 @@ I'm a full-stack software engineer based in NYC, passionate about building scala
 **📝 Languages:** TypeScript, Golang, Python
 <br />
 **🛠️ Frameworks:** React, GraphQL, Node.js, Flask  
-**💾 Databases:** PostgreSQL, MongoDB, Redis  
+**💾 Databases:** MySQL, PostgreSQL, MongoDB, Redis  
 **☁️ Cloud & DevOps:** AWS, GCP, Docker, Terraform, GitHub Actions  
-**⚙️ Other:** Webpack, Vite, Nginx
+**⚙️ Other:** Turborepo, Webpack, Vite, Nginx
 
 ## ✉️ Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lim-damian)
